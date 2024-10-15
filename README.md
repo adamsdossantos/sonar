@@ -29,7 +29,6 @@ This project implements a Logistic Regression model to help a sonar to identify 
 - pandas
 - matplotlib
 - numpy
-- seaborn
 
 ### Installation
 1. Clone the repository:
